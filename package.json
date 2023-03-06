@@ -1,0 +1,21 @@
+{
+  "name": "mockserver2",
+  "version": "1.0.0",
+  "description": "rendermockserver2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantshekhar82/mockServer2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantshekhar82/mockServer2/issues"
+  },
+  "homepage": "https://github.com/sushantshekhar82/mockServer2#readme"
+}
