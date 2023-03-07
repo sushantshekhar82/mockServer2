@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/sushantshekhar82/mockServer2/issues"
   },
-  "homepage": "https://github.com/sushantshekhar82/mockServer2#readme"
+  "homepage": "https://github.com/sushantshekhar82/mockServer2#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
 }
