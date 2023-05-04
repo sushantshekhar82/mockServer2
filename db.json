@@ -28,6 +28,14 @@
           "price": 1999,
           "id": 9
         }
-      ]
+      ],
+      "Resgister_users": [
+        {
+          "name": "sushant",
+          "category": "sports",
+          "difficulty": "easy",
+          "questions": "10",
+          "id": 1
+        }]
   
   }
