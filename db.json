@@ -3,43 +3,13 @@
     "cars":[],
     "wishlisted_cars":[],
  
-      "products": [
-        {
-          "image": "https://cdn.shopify.com/s/files/1/0624/0701/6704/products/fayon-kids-green-printed-lehenga-choli-and-dupatta-for-girls-37508629659904.jpg?v=1659962703",
-          "description": "Child Lengha",
-          "gender": "female",
-          "category": "Lehenga",
-          "price": 8999,
-          "id": 7
-        },
-        {
-          "image": "https://5.imimg.com/data5/ANDROID/Default/2020/12/CN/XR/ER/120295808/img-20201223-205457-346-jpg-1000x1000.jpg",
-          "description": "Women pink Sharee",
-          "gender": "female",
-          "category": "Sharee",
-          "price": 10999,
-          "id": 8
-        },
-        {
-          "image": "https://assets.ajio.com/medias/sys_master/root/20230102/wJfs/63b2fe3eaeb269659c1e09e0/-288Wx360H-462323964-green-MODEL.jpg",
-          "description": "Green shirt",
-          "gender": "male",
-          "category": "Sharee",
-          "price": 1999,
-          "id": 9
-        }
-      ],
-      "Resgister_users": [
-        {
-          "name": "sushant",
-          "category": "sports",
-          "difficulty": "easy",
-          "questions": "10",
-          "id": 1
-        }],
+      "products": [],
+      "Resgister_users": [],
         "employees":[],
         "user":[],
-        "tracker":[]
+        "tracker":[],
+        "users":[],
+        "appointments":[]
 
   
   }
