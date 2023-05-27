@@ -9,7 +9,8 @@
         "user":[],
         "tracker":[],
         "users":[],
-        "appointments":[]
+        "appointments":[],
+        "freelancers":[]
 
   
   }
